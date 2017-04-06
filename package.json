@@ -1,0 +1,24 @@
+{
+  "name": "web_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chandrashekar3792/Web_Scraping_NodeJS.git"
+  },
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  },
+  "author": "chandru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrashekar3792/Web_Scraping_NodeJS/issues"
+  },
+  "homepage": "https://github.com/chandrashekar3792/Web_Scraping_NodeJS"
+}
